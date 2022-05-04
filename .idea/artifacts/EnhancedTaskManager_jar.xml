@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnhancedTaskManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnhancedTaskManager_jar</output-path>
+    <root id="archive" name="EnhancedTaskManager.jar">
+      <element id="module-output" name="EnhancedTaskManager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../.utilsJavaFX/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
